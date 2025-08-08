@@ -26,3 +26,6 @@
 // console.log(all)
 
 
+// const statement = 'I am a hard working person'
+//  const ball = `'${statement.split(" ").reverse().join(" ")}'`
+// console.log(ball)
