@@ -35,4 +35,12 @@
 //  const array2 =[...array1]
 //  array2[0] =99
 //  console.log(`orginal:[${array1}],copy:[${array2}]`)
- 
+
+
+const text =[
+  { name: "John", marks: 85 },
+  { name: "Alice", marks: 90 }
+]
+for( const item of text){
+console.log(`${item.name} scored ${item.marks}`)
+}
