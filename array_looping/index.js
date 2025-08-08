@@ -29,3 +29,10 @@
 // const statement = 'I am a hard working person'
 //  const ball = `'${statement.split(" ").reverse().join(" ")}'`
 // console.log(ball)
+
+
+//  const array1 = [1, 2, 3]
+//  const array2 =[...array1]
+//  array2[0] =99
+//  console.log(`orginal:[${array1}],copy:[${array2}]`)
+ 
